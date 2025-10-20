@@ -30,3 +30,17 @@
   <img height = "200" src="https://github-readme-stats.vercel.app/api?username=brbiancr&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
 </div>
 
+--- 
+🌸 Um pouco sobre mim
+
+“Olhe, tenho uma alma muito prolixa e uso poucas palavras.
+
+Sou irritável e firo facilmente.
+
+Também sou muito calmo e perdoo logo.
+
+Não esqueço nunca.
+
+Mas há poucas coisas de que eu me lembre.”
+
+-C.L.
