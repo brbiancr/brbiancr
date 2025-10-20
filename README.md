@@ -14,6 +14,9 @@
 
 💼 Estagiária em Engenharia de Dados
 
+---
+### 🚀 Tecnologias que me acompanham
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp; 
@@ -31,8 +34,7 @@
 </div>
 
 --- 
-🌸 Um pouco sobre mim
-
+### ✨ Um pouco da minha filosofia
 “Olhe, tenho uma alma muito prolixa e uso poucas palavras.
 
 Sou irritável e firo facilmente.
