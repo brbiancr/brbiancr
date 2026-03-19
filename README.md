@@ -8,41 +8,46 @@
 
 ---
 
-📚 Estudante de Ciência da Computação - UFU 
+### 🎓 Um pouco sobre mim
 
-🔍 Bolsista de Iniciação Ciêntifica - FAPEMIG
+**Estudante de Ciência da Computação @ UFU** | `while(at_UFU): learning_everything()` 🚀
 
-💼 Estagiária em Engenharia de Dados
+* 🔍 **Bolsista de Iniciação Científica (FAPEMIG):** Unindo o rigor acadêmico à análise de dados.
+* 💼 **Estagiária em Engenharia de Dados:** Onde transformo pipelines complexos em fluxos eficientes.
+* ✨ **Meu Desafio Favorito:** Pegar dados bagunçados e deixá-los tão organizadinhos quanto uma gaveta de roupas recém-arrumada (a "Marie Kondo" dos dados). 🧹
 
 ---
 ### 🚀 Tecnologias que me acompanham
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-<div>
-  <img height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbiancr&show_icons=true&theme=bear&count_private=true"/>
-  <img height = "200" src="https://github-readme-stats.vercel.app/api?username=brbiancr&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
+📊 Estatísticas
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbiancr&layout=compact&theme=bear&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brbiancr&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 --- 
 ### ✨ Um pouco da minha filosofia
-“Olhe, tenho uma alma muito prolixa e uso poucas palavras.
+> “Olhe, tenho uma alma muito prolixa e uso poucas palavras.  
+> Sou irritável e firo facilmente.  
+> Também sou muito calmo e perdoo logo.  
+> Não esqueço nunca.  
+> Mas há poucas coisas de que eu me lembre.”  
+> — **Clarice Lispector**
 
-Sou irritável e firo facilmente.
-
-Também sou muito calmo e perdoo logo.
-
-Não esqueço nunca.
-
-Mas há poucas coisas de que eu me lembre.”
-
--C.L.
+---
+<div align="center">
+  <code>sudo apt-get install coffee e monster-zero</code> ☕⚡
+</div>
