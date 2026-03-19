@@ -1,8 +1,11 @@
 # Bem vindo(a) ao meu GitHub 🌸
 
-<div id="badges">
-  <a href = "https://www.linkedin.com/in/biancr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/biancr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
