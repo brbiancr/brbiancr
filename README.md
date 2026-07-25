@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp; 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Spark" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Icon-Obsolete2020Yellow.png" title="Power BI" width="40" height="40"/>
 </div>
 
 ---
